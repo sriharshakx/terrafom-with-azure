@@ -2,30 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="83da202e-3158-4cc9-b12c-bf4a364840f4" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/terrafom-with-azure.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/01-All-Resources/network.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/01-All-Resources/resource-group.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/01-All-Resources/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/DEV-ENV/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/DEV-ENV/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/PROD-ENV/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/PROD-ENV/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/resource-group/resource-group.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/resource-group/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/03-outputs/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/03-outputs/resource-group.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/03-outputs/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/DEV-ENV/main.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/DEV-ENV/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/network/subnet.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/network/vars.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/network/virtual-network.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/resource-groups/outputs.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/resource-groups/resource-group.tf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/resource-groups/vars.tf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/DAY1/01-basics/04-functions/resource-group.tf" beforeDir="false" afterPath="$PROJECT_DIR$/DAY1/01-basics/04-functions/resource-group.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY2/02-Modules/DEV-ENV/vars.tf" beforeDir="false" afterPath="$PROJECT_DIR$/DAY2/02-Modules/DEV-ENV/vars.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY2/02-Modules/PROD-ENV/vars.tf" beforeDir="false" afterPath="$PROJECT_DIR$/DAY2/02-Modules/PROD-ENV/vars.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY2/02-Modules/resource-group/resource-group.tf" beforeDir="false" afterPath="$PROJECT_DIR$/DAY2/02-Modules/resource-group/resource-group.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY2/04-Modules/modules/resource-groups/resource-group.tf" beforeDir="false" afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/resource-groups/resource-group.tf" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
