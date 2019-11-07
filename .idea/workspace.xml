@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="83da202e-3158-4cc9-b12c-bf4a364840f4" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/terrafom-with-azure.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/01-All-Resources/network.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/01-All-Resources/resource-group.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/01-All-Resources/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/DEV-ENV/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/DEV-ENV/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/PROD-ENV/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/PROD-ENV/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/resource-group/resource-group.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/02-Modules/resource-group/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/03-outputs/outputs.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/03-outputs/resource-group.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/03-outputs/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/DEV-ENV/main.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/DEV-ENV/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/network/subnet.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/network/vars.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/network/virtual-network.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/resource-groups/outputs.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/resource-groups/resource-group.tf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/DAY2/04-Modules/modules/resource-groups/vars.tf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/DAY1/01-basics/04-functions/resource-group.tf" beforeDir="false" afterPath="$PROJECT_DIR$/DAY1/01-basics/04-functions/resource-group.tf" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1TGzZFfhlH0cgHL4Ufck8Hgm4wp" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="83da202e-3158-4cc9-b12c-bf4a364840f4" name="Default Changelist" comment="" />
+      <created>1573101273256</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1573101273256</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
+</project>
